@@ -26,6 +26,5 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>  
   <code> <img height="50" src="https://exaud.com/wp-content/uploads/2017/06/Android-Now-Oficially-Supports-Kotlin-Programming-Language.jpeg"> </code>  
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src=" https://en.wikipedia.org/wiki/XML#/media/File:Extensible_Markup_Language_(XML)_logo.svg  "> </code>  
-
+ 
 </p>  
