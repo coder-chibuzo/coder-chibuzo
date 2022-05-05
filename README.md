@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working Languages and Tools:...***
 <p align="left">
   
-  <code> <img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-official.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-vertical.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>  
   <code> <img height="50" src="https://exaud.com/wp-content/uploads/2017/06/Android-Now-Oficially-Supports-Kotlin-Programming-Language.jpeg"> </code>  
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
