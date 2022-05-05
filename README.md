@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm John Chibuzo Iyioke
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=coder-chibuzo&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=John Chibuzo Iyioke's Stats">
 </p>
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about [Java](https://www.java.com/en/), [Python](https://kotlinlang.org/), [XML](https://en.wikipedia.org/wiki/XML)
 - 📫 Connect with me: on  [GITHUB](https://github.com/coder-chibuzo),   on   [MEDIUM](https://medium.com/@johnchibuzoiyioke), on  [INSTAGRAM](https://www.instagram.com/john_chibuzo_iyioke/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am bilingual
+- ⚡ Fun fact: I'm bilingual
 
 
 </div>
