@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>  
     <code> <img height="50" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"> </code>  
-  <code> <img height="50" src="https://exaud.com/wp-content/uploads/2017/06/Android-Now-Oficially-Supports-Kotlin-Programming-Language.jpeg"> </code>  
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
  
 </p>  
