@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
