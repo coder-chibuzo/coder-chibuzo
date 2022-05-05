@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/xml/xml-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> </code>
