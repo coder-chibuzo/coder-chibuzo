@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am bilingual
 
--->
+
+</div>
+<br/><br/>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working Languages and Tools:...***
 <p align="left">
   
@@ -27,7 +29,8 @@ Here are some ideas to get you started:
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"> </code>  
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"width='100'> </code>
  
-</p>  
+</p>
+<br/><br/>
 
 </div>
 <br/><br/>
