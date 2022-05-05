@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
 - 📫 How to reach me: [kleanscore@gmail.com] [https://www.instagram.com/john_chibuzo_iyioke/]
-- 😄 Pronouns: He.Him
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am bilingual
 
 -->
