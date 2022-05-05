@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 <p align="left">
   
 
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>  
+  
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/javahorizontal.svg"> </code>  
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"> </code>
     <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg" width='100'> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
