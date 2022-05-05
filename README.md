@@ -4,13 +4,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python for Industrial similations.
+- 🔭 I’m currently working on simulatiing process variable using Python.
 - 🔭 Also working on Ecommerce mobil application.
 - 🌱 I’m currently learning EPRnet and MERN projects.
 - 👯 I’m looking to collaborate on ecommerce mobile application
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
-- 📫 How to reach me: [github](https://github.com/coder-chibuzo), [instagram](https://www.instagram.com/john_chibuzo_iyioke/) and [kleaanscore@gmail.com]
+- 📫 How to reach me: [github](https://github.com/coder-chibuzo), [instagram](https://www.instagram.com/john_chibuzo_iyioke/) and kleaanscore@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am bilingual
 
