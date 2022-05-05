@@ -1,7 +1,7 @@
-### Hi there 👋, I'm JohnChibuzo Iyioke
+### Hi there 👋, I'm John Chibuzo Iyioke
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=coder-chibuzo&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Kaustubh's Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=coder-chibuzo&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=John Chibuzo Iyioke's Stats">
 </p>
 
 
