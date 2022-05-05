@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+   <code> <img height="50" src="https://www.thewindowsclub.com/wp-content/uploads/2020/11/python-logo.png?ezimgfmt=ng%3Awebp%2Fngcb188"> </code>
+
 </p>  
