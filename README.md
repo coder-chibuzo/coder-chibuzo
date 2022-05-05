@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ecommerce mobile application
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
-- 📫 How to reach me: by [email](kleanscore@gmail.com) and [instagram](https://www.instagram.com/john_chibuzo_iyioke/)
+- 📫 How to reach me: by [email](https://www.gmail.com) and [instagram](https://www.instagram.com/john_chibuzo_iyioke/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am bilingual
 
