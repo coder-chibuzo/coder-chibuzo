@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21-ar21.svg"> </code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width='100'> </code>
