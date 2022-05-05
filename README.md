@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm JohnChibuzo Iyioke
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Kaustubh's Stats">
+</p>
+
 
 
 Here are some ideas to get you started:
