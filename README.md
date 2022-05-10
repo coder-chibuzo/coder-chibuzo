@@ -9,14 +9,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on simulatiing process variable using Python.
-- 🔭 Also working on Ecommerce mobil application.
-- 🌱 I’m currently learning EPRnet and MERN projects.
+- 🔭 I’m currently working on simulatiing industrial process variables using Python.
+- 🔭 ..Also working on Android application development for Ecommerce & online marketing.
+- 🌱 I’m currently learning EPRnext, Flutter and MERN projects.
 - 👯 I’m looking to collaborate on backend application development.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about [Java](https://www.java.com/en/), [Python](https://kotlinlang.org/), [XML](https://en.wikipedia.org/wiki/XML)
 - 📫 Connect with me: on  [GITHUB](https://github.com/coder-chibuzo),   on   [MEDIUM](https://medium.com/@johnchibuzoiyioke), on  [INSTAGRAM](https://www.instagram.com/john_chibuzo_iyioke/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm bilingual
 
 </div>
