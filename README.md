@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm John Chibuzo Iyioke
+**Process Technologist, Software Developer** 🚀
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=coder-chibuzo&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=John Chibuzo Iyioke's Stats">
