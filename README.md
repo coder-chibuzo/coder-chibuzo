@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm John Chibuzo Iyioke
-** Petroleum Process Engineer, Software Developer ** 🚀
+** Petroleum Process Engineer, Software Developer 🚀
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=coder-chibuzo&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=John Chibuzo Iyioke's Stats">
