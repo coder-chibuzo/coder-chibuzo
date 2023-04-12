@@ -9,8 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on providing digitals solutions to Care-Homes and Nursing Homes.
-- 🔭 I’m remotely working as a member of a team in simulatiing industrial process variables using Python.
+- 🔭 I’m currently working remotely as a member of a team in simulatiing industrial process.
 - 🔭 ..Also working on Android application development for Ecommerce & online marketing.
 - 🌱 I’m currently learning Machine Learning, EPRnext, Flutter and MERN projects.
 - 👯 I’m looking to collaborate on backend application development.
